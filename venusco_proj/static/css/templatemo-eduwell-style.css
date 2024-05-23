@@ -719,7 +719,7 @@ section.main-banner {
   color: #777777;;
 }
 
-.main-banner .header-text h2 {
+.main-banner .header-text h3 {
   position: relative;
   z-index: 2;
   margin-top: 20px;
@@ -730,7 +730,7 @@ section.main-banner {
   margin-bottom: 40px;
 }
 
-.main-banner .header-text h2 em {
+.main-banner .header-text h3 em {
   font-style: normal;
   color: #dc8cdb;
 }
